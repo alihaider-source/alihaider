@@ -12,3 +12,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+
+
+## 👨‍💻 Focus
+
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-0A66C2?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS-181717?style=flat-square)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-6C63FF?style=flat-square)
